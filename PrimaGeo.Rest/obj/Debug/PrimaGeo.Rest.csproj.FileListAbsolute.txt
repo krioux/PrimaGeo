@@ -1,0 +1,11 @@
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\obj\Debug\PrimaGeo.Rest.csproj.AssemblyReference.cache
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\obj\Debug\PrimaGeo.Rest.csproj.CoreCompileInputs.cache
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\bin\Debug\PrimaGeo.Rest.dll
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\bin\Debug\PrimaGeo.Rest.pdb
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\bin\Debug\Newtonsoft.Json.dll
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\bin\Debug\RestSharp.dll
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\bin\Debug\Newtonsoft.Json.xml
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\bin\Debug\RestSharp.xml
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\obj\Debug\PrimaGeo.Rest.csproj.CopyComplete
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\obj\Debug\PrimaGeo.Rest.dll
+D:\Programmation\PrimaGeo\PrimaGeo.Rest\obj\Debug\PrimaGeo.Rest.pdb
