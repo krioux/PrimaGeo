@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using PrimaGeo.Rest;
-using PrimaGeo.Rest.ApiModel.API;
 
 namespace PrimaGeo.Backend.Model.API
 {

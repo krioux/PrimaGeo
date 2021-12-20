@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace PrimaGeo.Rest.ApiModel.API
+﻿namespace PrimaGeo.Backend.Model.API
 {
     public class GeoDBMetadata
     {

@@ -1,4 +1,0 @@
-D:\Programmation\PrimaGeo\PrimaGeo\obj\Debug\PrimaGeo.Properties.Resources.resources
-D:\Programmation\PrimaGeo\PrimaGeo\obj\Debug\PrimaGeo.csproj.GenerateResource.cache
-D:\Programmation\PrimaGeo\PrimaGeo\obj\Debug\PrimaGeo.csproj.CoreCompileInputs.cache
-D:\Programmation\PrimaGeo\PrimaGeo\obj\Debug\PrimaGeo.csproj.AssemblyReference.cache

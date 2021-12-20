@@ -1,4 +1,4 @@
-﻿namespace PrimaGeo.Rest
+﻿namespace PrimaGeo.Backend.Model.API
 {
     public class GeoDBLink
     {

@@ -2,3 +2,6 @@
 PrimaGeo/obj/*
 packages/*
 .vs/*
+PrimaGeo.Rest/obj/*
+PrimaGeo.Rest/bin/*
+PrimaGeo.Console/obj/*
